@@ -1,4 +1,5 @@
-![My stats stats](https://github-readme-stats.vercel.app/api?username=alexwang18&theme=nightowl&show_icons=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=alexwang18&theme=nightowl&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AlexWang18/AlexWang18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
